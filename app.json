@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "DishHobby",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "slug": "dishhobby",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "bundleIdentifier": "com.dishOffice.dishhobby",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.dishOffice.dishhobby",
+      "versionCode": 1
+    }
+  }
+}
